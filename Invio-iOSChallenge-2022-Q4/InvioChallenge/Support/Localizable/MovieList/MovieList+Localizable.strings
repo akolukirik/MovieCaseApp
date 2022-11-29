@@ -1,0 +1,15 @@
+/* 
+  MovieList+Localizable.strings
+  InvioChallenge
+
+  Created by Ali Kolukirik on 29.11.2022.
+  
+*/
+
+"MovieList_EmptyResponse_Message" = "Aramaya uygun sonuç bulunamadı..";
+"MovieList_Searching_Message" = "Arama yapılıyor..";
+"MovieList_FetchingError_Message" = "Api error!!";
+"MovieList_NavigateFailure_Message" = "Sayfa geçiş hatası.";
+"MovieList_SearchingProcess_Message" = "Arama yapılıyor..";
+"MovieList_MakeSearching_Message" = "Lütfen arama yapınız..";
+

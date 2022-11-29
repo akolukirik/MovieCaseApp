@@ -1,0 +1,10 @@
+/* 
+  Splash+Localizable.strings
+  InvioChallenge
+
+  Created by Ali Kolukirik on 29.11.2022.
+  
+*/
+
+"Splash_Welcome_Message" = "Hoş geldin";
+"Splash_Hello_Message" = "Merhaba";

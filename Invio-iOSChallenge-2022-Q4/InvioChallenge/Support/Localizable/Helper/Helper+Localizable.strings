@@ -1,0 +1,11 @@
+/* 
+  Helper+Localizable.strings
+  InvioChallenge
+
+  Created by Ali Kolukirik on 29.11.2022.
+  
+*/
+
+
+"Helper_NotAttendant_Message" = "N/A";
+"Helper_AssertionFailure_Message" = "Lütfen viewModel'ı inject ederek devam et!";
