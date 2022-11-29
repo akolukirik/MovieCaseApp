@@ -7,7 +7,7 @@ Case uygulamam kapsamında, api aracılığı ile gelen filmlerin listelenmesi, 
 - MVVM
 - Pagination
 - Network layer
-- Favoriler ekleme/çıkartma
+- Favorilere ekleme/çıkartma
 
 ## List of Frameworks
 
@@ -16,6 +16,11 @@ Case uygulamam kapsamında, api aracılığı ile gelen filmlerin listelenmesi, 
 | [Alamofire](https://github.com/WenchaoD/FSCalendar) |  Networking Library. |
 | [Kingfisher](https://github.com/onevcat/Kingfisher) |  Downloading Images Library. |
 | [Netfox ](https://github.com/kasketis/netfox) | Quick look on all executed network requests. |
+
+## Project Overview
+
+<img src="https://github.com/akolukirik/MovieCaseApp/blob/main/img/project.gif" width="276" height="597">
+
 
 ## Contact Me
 
